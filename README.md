@@ -18,3 +18,5 @@ Typical use cases of Flexbox
 
 
 https://careers.bcg.com/search-results?rk=page-targeted-jobs-page324-prod-n6mBQm
+
+https://www.theodinproject.com/lessons/foundations-landing-page
