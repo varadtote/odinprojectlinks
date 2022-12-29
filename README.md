@@ -19,4 +19,6 @@ Typical use cases of Flexbox
 
 https://careers.bcg.com/search-results?rk=page-targeted-jobs-page324-prod-n6mBQm
 
-https://www.theodinproject.com/lessons/foundations-landing-page
+How to think like programmer
+(https://www.pdfdrive.com/think-like-a-programmer-an-introduction-to-creative-problem-solving-e156859116.html)
+(https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
