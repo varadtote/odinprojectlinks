@@ -16,3 +16,7 @@ this contains
 
 minlength 
 maxlength
+
+
+https://www.internetingishard.com/html-and-css/forms/#textareas
+https://www.silocreativo.com/en/css-rescue-improving-ux-forms/
